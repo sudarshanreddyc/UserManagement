@@ -8,7 +8,7 @@ Follow these steps to get the project up and running on your local machine:
 
 1. Clone the Repository
    Clone the project repository
-   git clone <repository-url>
+   git clone "https://github.com/sudarshanreddyc/UserManagement.git"
 
 2. Navigate to the Project Directory
    Move into the project folder:
